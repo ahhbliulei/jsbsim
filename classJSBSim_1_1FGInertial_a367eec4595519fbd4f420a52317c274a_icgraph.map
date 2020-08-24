@@ -1,0 +1,4 @@
+<map id="GetTl2ec" name="GetTl2ec">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInertial.html#a7fc9d563c8fc0a51159a0e7b7a6a3d74" title="Sets the ground callback pointer. " alt="" coords="132,5,276,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInertial.html#ac6e05cd7ae78721a8f96ab879801dbbb" title="Transform matrix from the earth centered to local horizontal frame. " alt="" coords="166,56,242,83"/>
+</map>

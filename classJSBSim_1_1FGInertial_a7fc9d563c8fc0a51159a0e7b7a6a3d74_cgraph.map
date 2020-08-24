@@ -1,0 +1,9 @@
+<map id="SetGroundCallback" name="SetGroundCallback">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInertial.html#a367eec4595519fbd4f420a52317c274a" title="Transform matrix from the local horizontal frame to earth centered. " alt="" coords="197,177,276,203"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#af0f103b7c1f4c5c8cdceb15a55305fe2" title="Sets the longitude, latitude and the distance above the reference ellipsoid. " alt="" coords="340,5,499,47"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#a2420bec8cd0ca25c04353050a926a6af" title="Get the longitude. " alt="" coords="346,71,493,112"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#aaee8027cf9d3d2d8f91be6190f08765e" title="Get the geodetic latitude. " alt="" coords="338,136,501,177"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGColumnVector3.html#acc6f47d7e6daf06690b60f6df00c8264" title="Normalize. " alt="" coords="324,201,515,243"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a3f3f67b03ed439bd572208afa1a737b5" title="Get the distance from the center of the earth. " alt="" coords="346,267,493,308"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGLocation.html#a9b73a353041ef6f811af44d830df8e23" title="Get the sine of Latitude. " alt="" coords="346,332,493,373"/>
+</map>

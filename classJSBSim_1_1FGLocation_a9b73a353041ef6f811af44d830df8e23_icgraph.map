@@ -1,0 +1,7 @@
+<map id="GetSinLatitude" name="GetSinLatitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInertial.html#a367eec4595519fbd4f420a52317c274a" title="Transform matrix from the local horizontal frame to earth centered. " alt="" coords="171,71,307,112"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#a077d7597ec2d610bd6370db8c8a44232" title="Get the heading that should be followed from the current location to a given location along the short..." alt="" coords="183,137,294,163"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInertial.html#a7fc9d563c8fc0a51159a0e7b7a6a3d74" title="Sets the ground callback pointer. " alt="" coords="355,5,507,47"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#ac6e05cd7ae78721a8f96ab879801dbbb" title="Transform matrix from the earth centered to local horizontal frame. " alt="" coords="363,71,499,112"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#a7e110293850bba7cf628406c00fa76ba" title="Transform matrix from the earth centered to local horizontal frame. " alt="" coords="393,137,469,163"/>
+</map>
